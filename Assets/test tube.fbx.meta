@@ -3,7 +3,22 @@ guid: 9f1b1d379ab79e54b81a7d5e305fa9b0
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cork.001
+    second: {fileID: 2100000, guid: fae0b7f1f8afd1c4ab0ff20fdbb3b9d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Clear.002
+    second: {fileID: 2100000, guid: 77bae5a581c47e44f9948a025f0d14af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Liquid
+    second: {fileID: 2100000, guid: 3d9dbe423e0252447814ba22b7a38939, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
