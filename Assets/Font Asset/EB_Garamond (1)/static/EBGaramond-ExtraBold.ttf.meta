@@ -1,0 +1,39 @@
+fileFormatVersion: 2
+guid: 4c5dc511f5768c64f8fc640b1480f227
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - EB Garamond
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 35a6af905fc036d4f868ef5d01155307, type: 3}
+  - {fileID: 12800000, guid: d18e1bcdde7a26340884aaa60829be89, type: 3}
+  - {fileID: 12800000, guid: 9348cc2fc176e014bb442bf168bd0070, type: 3}
+  - {fileID: 12800000, guid: d9751ab7dce1808498db882075b6c0c2, type: 3}
+  - {fileID: 12800000, guid: 74b3cd4071b25d64f83fece9dcd7e6aa, type: 3}
+  - {fileID: 12800000, guid: aba6c4dc74c4607488e20936c0f849aa, type: 3}
+  - {fileID: 12800000, guid: e261e0f87e1a83b49b3e11dc4be8cf81, type: 3}
+  - {fileID: 12800000, guid: d6564e40a2fda0a4c9f90ead8b6ae188, type: 3}
+  - {fileID: 12800000, guid: 87ad7f91dbf1f3446a5af100358a2793, type: 3}
+  - {fileID: 12800000, guid: 8bcb885be4ec7874eb2c822a9aa39ec2, type: 3}
+  - {fileID: 12800000, guid: 188204aad3123b745a13ae7afe0bb93f, type: 3}
+  - {fileID: 12800000, guid: b38f1a82bef19b74490d580444c037b4, type: 3}
+  - {fileID: 12800000, guid: d0a3a108f8a9a7e44a207f98bb5c8508, type: 3}
+  - {fileID: 12800000, guid: 5b796488dd3bb0940a53ed67e9f3c630, type: 3}
+  - {fileID: 12800000, guid: 7b4dbaf5e649d7740a5cd58c6481cc00, type: 3}
+  - {fileID: 12800000, guid: e72b163420b1e94428fd9cbfdf8b853d, type: 3}
+  - {fileID: 12800000, guid: 90f1ba0ed385f9e4e8ee33a79421a7c1, type: 3}
+  - {fileID: 12800000, guid: d9bfd023dd034714d8749a00dabce1de, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

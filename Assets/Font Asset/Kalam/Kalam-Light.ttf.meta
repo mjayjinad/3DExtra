@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cc81d2f804b070e4eba0c0e1c0921179
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kalam
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b39e4a39923047f43959e8fcca4477e5, type: 3}
+  - {fileID: 12800000, guid: 4a9b1ec7f897171439b5e573ec350053, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
