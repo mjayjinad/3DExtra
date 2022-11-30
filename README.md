@@ -1,5 +1,13 @@
 # 3DExtra
-A project for AR/VR Hackathon
+## A project for AR/VR Hackathon
+
+KEY LINKS
+
+APK LINK: https://bit.ly/MRLAB-APK-DOWNLOAD
+
+USAGE GUIDE: https://bit.ly/MRLAB-USAGE-GUIDE
+
+PITCH and DEMO VIDEO: https://youtu.be/5EFVy3IF5Rc
 
 The Goal of 3DExtra is to make education more accessible to students.
 
