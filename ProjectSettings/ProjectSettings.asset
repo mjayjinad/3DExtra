@@ -769,8 +769,9 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
-    4: ARFOUNDATION_PRESENT
-    7: ARFOUNDATION_PRESENT
+    1: OBI_ONI_SUPPORTED
+    4: ARFOUNDATION_PRESENT;OBI_ONI_SUPPORTED
+    7: ARFOUNDATION_PRESENT;OBI_ONI_SUPPORTED
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
