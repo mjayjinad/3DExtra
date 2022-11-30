@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Test Tube
+  - Beaker
+  - Volumetric Flask
+  - Bottle Rack
+  - Conical Flask
+  - Measuring Cylinder
+  - Table A
+  - Table B
+  - Table C
   layers:
   - Default
   - TransparentFX
