@@ -30,5 +30,11 @@ In future update, we would be adding:
 1. Series of Experiments regarding Titration
 2. Separation Techniques
 3. ..and Physics practicals.
+4. The build is targeting Android, future updates will support iOS, and OpenXR
 
 
+TOOLS USED
+1. Unity3D
+2. MRTK
+3. ARFOUNDATION
+4. ARCORE
